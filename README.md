@@ -47,7 +47,7 @@ This project follows Clean Architecture principles:
 ```
 ┌─────────────────────────────────────────────────────────────┐
 │                    Flutter Application                       │
-│  (D:\Lamaran\Test AG Satu\to do list-Flutter)               │
+│  (D:...\Test AG Satu\to do list-Flutter)               │
 ├─────────────────────────────────────────────────────────────┤
 │  lib/                                                        │
 │  ├── core/                                                   │
