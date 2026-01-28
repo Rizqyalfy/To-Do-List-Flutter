@@ -1,6 +1,6 @@
 # To-Do List App - Google Tasks Clone
 
-A beautiful and functional to-do list application built with Flutter + Firebase, inspired by Google Tasks. This app uses BLoC pattern for state management with Firebase Authentication and Cloud Firestore for real-time cloud storage, running on Android and Web platforms.
+Aplikasi daftar tugas dan fungsional yang dibangun dengan Flutter + Firebase, terinspirasi oleh Google Tasks. Aplikasi ini menggunakan pola BLoC untuk manajemen state dengan Firebase Authentication dan Cloud Firestore untuk penyimpanan cloud real-time, berjalan di platform Android dan Web.
 
 ## 🚀 Current Status
 
